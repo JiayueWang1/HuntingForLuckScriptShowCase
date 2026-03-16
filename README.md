@@ -1,4 +1,4 @@
-# Hunting For Luck Script Showcase
+# Hunting For Luck Script Showcase | 《狩猎幸运》代码展示
 
 ## About the Game | 关于游戏
 
